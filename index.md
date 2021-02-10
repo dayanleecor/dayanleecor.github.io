@@ -151,7 +151,7 @@
 							<div class="row">
 								<div class="col-md-12">
 									<div class="mu-title">
-										<h2>Who we are</h2>
+										<h2>Projects</h2>
 										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa cum sociis.</p>
 									</div>
 								</div>
